@@ -12,7 +12,7 @@ Dynamo v1.3 Primer [hier](http://primer.dynamobim.org/en/Appendix/DynamoPrimer-P
 
 > Dynamo ist eine Open-Source-Plattform zur visuellen Programmierung, die für Konstrukteure konzipiert ist.
 
-#### Willkommen
+#### Willkommen 2
 
 Sie haben gerade Dynamo Primer geöffnet, die umfassende Einführung in die visuelle Programmierung in Autodesk Dynamo. Bei diesem Primer handelt es sich um ein laufendes Projekt zum Austauschen der Grundlagen der Programmierung. Zu den enthaltenen Themen gehören die Verwendung der Dynamo-Plattform für rechnerische Geometrie (Computational Geometry), Best Practices für regelbasierte Konstruktionen, interdisziplinäre Programmierungsanwendungen und andere.
 
